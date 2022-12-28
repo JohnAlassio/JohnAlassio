@@ -7,7 +7,7 @@
 - 📫 How to reach me www.linkedin.com/in/john-alassio-rdes...
 - 
 - 
- My skills are:
+(My skills are:
 
 Html
 Css
@@ -27,7 +27,7 @@ Motivated to learn new stuff every day.
 Become a FullStack Developer.
 There are my repositories.
 
-And finally this is other website in building process. Carmenfrontdev
+And finally this is other website in building process. 
 <!---
 JohnAlassio/JohnAlassio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
