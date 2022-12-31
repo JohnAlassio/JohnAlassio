@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JohnAlassio
--    I'm from Uruguay and live in Montevideo for 33 yers
+-    I'm from Uruguay and live in Montevideo, I'm 33 yers
 -    I am a person of integrity, efficient, responsible and punctual, creative and recursive character, with a broad sense of belonging and commitment to the objectives of the organization, great learning capacity; spirit of collaboration, ability to work in teams, adaptability to change and continuous learning,  good interpersonal relationships and interest in continuous personal and work improvement.
 - 💻 I’m interested in Developer Blockchain for web 3.0 ...
 - 🌱 I’m currently learning frontend and backend development a student of web development school for Platzi ...
